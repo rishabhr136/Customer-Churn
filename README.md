@@ -19,4 +19,12 @@ Observation-7: Churning is being observed equally for the 'Yes', 'No' group of w
 Observation-8: Churning is being observed equally for both the 'Yes', 'No' group of StreamingMovies
 Observations-9: clearly visible that customers with month-to-month contract are the highest churners
 Observation-10: Most churners are non-senior citizens. Although we should also consider the fact that, data is more for non-senior citizens (5:1)
+
+In Machine Learning and Data Science we often come across a term called Imbalanced Data Distribution, generally happens when observations in one of the class are much higher or lower than the other classes. As Machine Learning algorithms tend to increase accuracy by reducing the error, they do not consider the class distribution. This problem is prevalent in examples such as Fraud Detection, Anomaly Detection, Facial recognition, etc.
+Standard ML techniques such as Decision Tree and Logistic Regression have a bias towards the majority class, and they tend to ignore the minority class. They tend only to predict the majority class, hence, having major misclassification of the minority class in comparison with the majority class. In more technical words, if we have imbalanced data distribution in our dataset then our model becomes more prone to the case when the minority class has a negligible or very lesser recall.
+Imbalanced Data Handling Techniques: There are mainly 2 mainly algorithms that are widely used for handling imbalanced class distribution. 
+
+1. SMOTE 
+2. Near Miss Algorithm
+3. 
 ![download](https://user-images.githubusercontent.com/68055586/137069256-15316626-0320-4249-867a-878a15484520.png)
