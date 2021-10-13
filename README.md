@@ -19,3 +19,4 @@ Observation-7: Churning is being observed equally for the 'Yes', 'No' group of w
 Observation-8: Churning is being observed equally for both the 'Yes', 'No' group of StreamingMovies
 Observations-9: clearly visible that customers with month-to-month contract are the highest churners
 Observation-10: Most churners are non-senior citizens. Although we should also consider the fact that, data is more for non-senior citizens (5:1)
+![download](https://user-images.githubusercontent.com/68055586/137069256-15316626-0320-4249-867a-878a15484520.png)
